@@ -1,0 +1,503 @@
+@media screen and (max-width: 1280px) {
+  .footer-sl1 {
+    width: 20%;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .navbar-logo img {
+    width: 70%;
+  }
+
+  ul li a,
+  .navbar-menu ul li a {
+    font-size: 0.85rem;
+  }
+
+  .banner h1 {
+    font-size: 3rem;
+  }
+
+  .about-us-title,
+  .classes-title,
+  .services-fade-title,
+  .our-coach-fade-title {
+    font-size: 7rem;
+  }
+
+  .our-mission-title,
+  .classes-over-title,
+  .services-over h1,
+  .our-coach-over h1,
+  .query-sl2 h1,
+  .footer h1,
+  .services-sl h1,
+  .classes-sl h1 {
+    font-size: 1.5rem;
+  }
+  .services-over p,
+  .our-coach-over p,
+  .our-mission-p,
+  .classes-over-p,
+  .services-sl p,
+  .footer-sl3 p,
+  .our-profile-photo-p1,
+  .our-profile-photo-p2,
+  .mission-sl1 p,
+  .classes-sl p,
+  .query-sl1 p {
+    font-size: 1rem;
+  }
+
+  .about-us-over,
+  .classes-over,
+  .services-over,
+  .our-coach-over {
+    top: 7.5%;
+  }
+
+  .classes-sl {
+    padding: 3.5rem 1rem;
+  }
+  .our-coach-profile-slot {
+    padding: 1rem 0rem;
+  }
+  .our-coach-profile-slot img {
+    width: 30%;
+  }
+  .query-sl1 h1 {
+    font-size: 2rem;
+  }
+
+  .name-slot input {
+    width: 10rem;
+    height: 2rem;
+  }
+  .email-slot input,
+  .phone-slot input {
+    width: 21rem;
+    height: 2rem;
+  }
+  .footer-sl3 input {
+    width: 14rem;
+    height: 1.8rem;
+  }
+  .footer-sl1 {
+    width: 20%;
+  }
+
+  .footer-sl3 button a i{
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 999px) {
+  .navbar-cont {
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0rem auto;
+    text-align: center;
+  }
+  .navbar-logo img {
+    width: 65%;
+  }
+  .navbar-menu {
+    width: 80%;
+  }
+  .navbar-btn a,
+  .banner button {
+    padding: 0.45rem 0.8rem;
+  }
+  .navbar-menu ul li a,
+  .banner button a {
+    font-size: 0.85rem;
+  }
+
+  .banner h1 {
+    font-size: 2rem;
+    width: 70%;
+  }
+  .banner p {
+    font-size: 1.2rem;
+    padding: 0.5rem 0rem 0.2rem;
+  }
+
+  .about-us-title,
+  .classes-title,
+  .services-fade-title,
+  .our-coach-fade-title {
+    font-size: 4rem;
+  }
+
+  .our-mission-title,
+  .classes-over-title,
+  .services-over-title h1,
+  .our-coach-over-title h1,
+  .query-sl2 h1,
+  .footer h1,
+  .classes-sl h1 {
+    font-size: 1.2rem;
+  }
+
+  .services-over-title p,
+  .our-coach-over-title p,
+  .our-mission-p,
+  .classes-over-p,
+  .footer-sl3 p,
+  .our-profile-photo-p1,
+  .our-profile-photo-p2,
+  .mission-sl1 p,
+  .classes-sl p,
+  .query-sl1 p {
+    font-size: 0.85rem;
+  }
+  .mission-slot {
+    flex-direction: column;
+  }
+  .mission-sl1 p {
+    width: 100%;
+    text-align: center;
+  }
+
+  .services-slot,
+  .our-coach-slot {
+    flex-wrap: wrap;
+  }
+
+  .about-us-over,
+  .classes-over,
+  .services-over-title,
+  .our-coach-over-title {
+    top: 3%;
+  }
+
+  .services-sl-icon{
+    font-size: 2rem;
+    width: 25%;
+  }
+  .services-sl-icon i{
+    padding: 0.5rem;
+  }
+  .classes-sl {
+    padding: 5rem 0rem;
+    margin: 1rem 0rem;
+  }
+  .classes-sl h3,
+  .our-coach-profile-sl1 h1,
+  .our-coach-profile-sl2 h1,
+  .query-sl1 h3,
+  .query-sl2 h4 {
+    font-size: 1rem;
+  }
+
+  .our-coach-profile-slot {
+    padding: 1rem 0rem;
+  }
+  .our-coach-profile-photo1 img,
+  .our-coach-profile-photo2 img {
+    width: 30%;
+  }
+  .query-sl1 h1 {
+    font-size: 1.6rem;
+  }
+  .name-slot input {
+    width: 7rem;
+    height: 1.5rem;
+    font-size: 0.8rem;
+  }
+  .email-slot input,
+  .phone-slot input {
+    width: 15rem;
+    height: 1.5rem;
+    font-size: 0.8rem;
+  }
+
+  ul li a,
+  .navbar-menu ul li a {
+    font-size: 0.75rem;
+  }
+  .footer-sl3 input {
+    width: 9rem;
+    height: 1.5rem;
+  }
+  .footer-sl1 {
+    width: 20%;
+  }
+  .footer-sl3 p {
+    width: 90%;
+  }
+
+  .footer-sl3 button a i{
+    font-size: 0.9rem;
+    padding:0rem;
+  }
+  .footer-sl3 button a{
+    padding: 0.2rem 0.7rem;
+  }
+  
+}
+
+@media screen and (max-width: 678px) {
+  .navbar-cont {
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+  .navbar-logo img {
+    width: 55%;
+  }
+  .navbar-menu ul li a,
+  .banner button a {
+    font-size: 0.75rem;
+  }
+  .navbar-btn a {
+    padding: 0.3rem 0.5rem;
+  }
+  .navbar-menu {
+    width: 90%;
+  }
+
+  .banner h1 {
+    font-size: 1.5rem;
+    letter-spacing: 0rem;
+  }
+  .banner p {
+    font-size: 0.85rem;
+    padding: 0.3rem 0rem;
+  }
+  .banner button {
+    padding: 0.3rem 0.5 rem;
+  }
+  .about-us-title,
+  .classes-title,
+  .services-fade-title,
+  .our-coach-fade-title {
+    font-size: 3rem;
+  }
+
+  .our-coach-sl h1,
+  .our-mission-title,
+  .classes-over-title,
+  .services-over-title h1,
+  .our-coach-over-title h1,
+  .query-sl2 h1,
+  .footer h1,
+  .services-sl h1,
+  .classes-sl h1 {
+    font-size: 1rem;
+  }
+  .services-over-title p,
+  .our-coach-over-title p,
+  .our-mission-p,
+  .our-coach-sl p,
+  .classes-over-p,
+  .services-sl p,
+  .footer-sl3 p,
+  .mission-sl1 p,
+  .classes-sl p,
+  .query-sl1 p {
+    font-size: 0.85rem;
+  }
+  .query-sl1 {
+    padding: 0rem 0rem 2rem;
+  }
+  .query-sl1 p {
+    padding: 0.5rem 0rem;
+  }
+
+  .query-sl2 h4 {
+    padding: 0.3rem 0rem;
+  }
+
+  .mission-slot {
+    flex-direction: column;
+    padding: 2rem 0rem;
+  }
+  .mission-sl1 p {
+    line-height: 1.2rem;
+    width: 100%;
+    text-align: center;
+    padding: 0rem 0rem 2rem;
+  }
+  .services img {
+    height: 170vh;
+  }
+  .services-slot {
+    flex-wrap: wrap;
+    padding: 2rem 0rem 0rem;
+  }
+  .services-sl {
+    width: 35%;
+    margin: 0.5rem;
+  }
+  .about-us-over,
+  .classes-over,
+  .services-over,
+  .our-coach-over {
+    top: 2.5%;
+  }
+
+  .classes-sl {
+    padding: 2rem 2.5rem;
+    margin: 0.5rem 0rem;
+  }
+  .our-coach-sl {
+    width: 55%;
+    margin: 0.4rem 0rem;
+  }
+  .our-coach-sl img {
+    width: 20%;
+  }
+  .query-slot {
+    flex-direction: column;
+  }
+  .query-sl1 h1 {
+    font-size: 1.4rem;
+  }
+  .name-slot input {
+    width: 6rem;
+    height: 1rem;
+  }
+  .email-slot input,
+  .phone-slot input {
+    width: 13rem;
+    height: 1rem;
+  }
+  .classes-sl h3,
+  .our-coach-profile-sl1 h1,
+  .our-coach-profile-sl2 h1,
+  .query-sl1 h3,
+  .query-sl2 h4 {
+    font-size: 0.8rem;
+  }
+  .footer-slot {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .footer-sl3 input {
+    width: 6rem;
+    height: 1rem;
+  }
+
+  .footer-sl3 button{
+    width: 7%;
+    height: 7%;
+  }
+  .footer-sl3 button a{
+    font-size: 0.5rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .banner h1 {
+    font-size: 1rem;
+    width: 50%;
+    padding: 0rem 0rem 0.4rem;
+  }
+  .services-sl p {
+    line-height: 1.1rem;
+  }
+  .our-coach-sl h1,
+  .our-mission-title,
+  .classes-over-title,
+  .services-over-title h1,
+  .our-coach-over-title h1,
+  .query-sl2 h1,
+  .footer h1,
+  .services-sl h1,
+  .classes-sl h1 {
+    font-size: 0.9rem;
+  }
+
+  .services-over-title p,
+  .our-coach-over-title p,
+  .our-mission-p,
+  .our-coach-sl p,
+  .classes-over-p,
+  .services-sl p,
+  .footer-sl3 p,
+  .mission-sl1 p,
+  .classes-sl p,
+  .query-sl1 p {
+    font-size: 0.75rem;
+  }
+  .services-sl-icon i{
+    font-size: 1.4rem;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .navbar-menu ul {
+    flex-wrap: wrap;
+  }
+  .navbar-menu ul li a, .banner button a{
+      font-size: 0.65rem;
+  }
+
+  .header-banner {
+    min-height: 60vh;
+  }
+
+  .banner h1 {
+    padding: 0.8rem 0rem 0rem;
+    width: 60%;
+  }
+  .navbar-btn a,
+  .banner button {
+    padding: 0.2rem 0.5rem;
+  }
+
+  .about-us-title,
+  .classes-title,
+  .services-fade-title,
+  .our-coach-fade-title {
+    font-size: 2.2rem;
+  }
+
+  
+
+  .services-over-title p,
+  .our-coach-over-title p,
+  .our-mission-p,
+  .our-coach-sl p,
+  .classes-over-p,
+  .services-sl p,
+  .footer-sl3 p,
+  .mission-sl1 p,
+  .classes-sl p,
+  .query-sl1 p{
+      font-size: 0.65rem;
+      line-height: 0.8rem;
+  }
+
+  .name-slot input{
+      width: 3rem;
+      height: 0.8rem;
+      font-size: 0.65rem;
+  }
+  .email-slot input, .phone-slot input{
+      width: 7rem;
+      height: 0.8rem;
+      font-size: 0.65rem;
+  }
+
+    .query-sl1 h3{
+        font-size: 0.65rem;
+    }
+
+  .query-sl2 h1{
+      font-size: 0.75rem;
+  }
+  .services-sl-icon{
+    width: 30%;
+  }
+  .services-sl-icon i{
+    font-size: 1.2rem;
+  }
+  .footer-sl3 button a{
+    padding: 0.2rem;
+    font-size: 0.3rem;
+  }
+
+}

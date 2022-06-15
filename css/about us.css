@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.sg-header{
+    background: url(/images/ab-bg5.jpg) center no-repeat;
+    background-size: cover;
+}
+
+.current-tab{
+    color: #3490ff !important;
+}
+
+.sg-about-us-banner-title{
+    width: 100%;
+    height: 36rem;
+    color: #fff;
+    background: linear-gradient(130deg, #00000088, transparent);
+    
+}
+
+.sg-about-us-banner-text{
+    width: 50%;
+    padding-top: 18%;
+}
+.sg-about-us-banner-text h1{
+    font-size: 3rem;
+    border-bottom: 0.19rem solid #0073ff7e;
+    width: 40%;
+    margin-bottom: 2rem;
+}
+.sg-about-us-banner-text em{
+    font-size: 1.4rem;
+    line-height: 3rem;
+}
+.sg-about-us-banner-text em span{
+    font-size: 3rem;
+    font-weight: 600;
+    color: #2487ff;
+}
+
+/* About-Our-Skating-Hub */
+
+.sg-about-our-ats-slot{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 5rem 0rem 3rem;
+}
+.sg-about-our-ats-sl{
+    width: 50%;
+}
+.sg-about-our-ats-sl h1{
+    font-size: 2.4rem;
+    color: #2487ff;
+    padding: 2rem 0rem;
+}
+.sg-about-our-ats-sl p{
+    color: #494949;
+    width: 85%;
+    line-height: 2.4rem;
+    font-size: 1.3rem;
+}
+.sg-about-our-ats-sl2{
+    width: 45%;
+}
+.sg-about-our-ats-sl2 img{
+    width: 100%;
+}
+
+/* ABout-Us-Number */
+.sg-about-number-table{
+    background: url(/images/About-number.jpg) center fixed;
+    background-size: cover;
+}
+
+.sg-about-number-slot{
+    background: url(/images/overlay.png) center repeat;
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem 0rem;
+}
+.sg-about-number-slot p{
+ font-size: 2.3rem;
+ font-weight: 600;
+ text-align: center;
+ color: #fff;
+}
+.sg-about-number-slot h1{
+    font-size: 2.2rem;
+    font-weight: 900;
+    color: #fff;
+}
+
+/* OUR-TRAINER */
+.sg-our-trainer{
+    padding: 5rem 0rem;
+    position: relative;
+}
+.sg-our-trainer::before{
+    content: "";
+    position: absolute;
+    top: 8rem;
+    left: 46%;
+    width: 8%;
+    height: 0.125rem;
+    background: #7a7a7a;
+    right: 0rem;
+}
+.sg-our-trainer h1{
+    text-align: center;
+    font-size: 2.4rem;
+    color: #2487ff;
+}
+
+.sg-our-trainer-slot{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin: 4rem 0rem;
+}
+.sg-our-trainer-sl{
+    width: 32%;
+    text-align: center;
+}
+.sg-our-trainer-sl img{
+    width: 50%;
+    border-radius: 2rem;
+}
+.sg-our-trainer-sl h2{
+    color: #494949;
+    padding: 1rem 0rem;
+}
+.sg-our-trainer-sl i{
+    font-size: 1.5rem;
+    padding: 0rem 0.3rem;
+}
+.sg-our-trainer-sl a{
+    color: #000;
+}
+.fa-facebook-square{
+    color: 	#4267B2;
+}
+.fa-twitter{
+    color: #00acee;
+}
+.fa-google-plus-g{
+    color: #db4a39;
+}
+
+
+/* GET-IN-TOUCH */
+
+.get-in-touch{
+    background: url(/images/bg2.jpg) center no-repeat;
+    background-size: cover;
+    padding: 6rem 0rem 2rem;
+}
+.git-slot h1{
+    color: #fff;
+}
+.git-slot{
+    background: #0000006c;
+    width: 60%;
+    height: 50%;
+    margin: 0rem auto;
+    padding: 2rem;
+    color: #c9c9c9;
+}
+.git-slot-cont{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.git-slot h1{
+    text-align: center;
+    padding: 0rem 0rem 2rem;
+    font-size: 2.4rem;
+}
+
+.git-sl1{
+    width: 40%;
+}
+.git-sl1 i, .git-sl1 p{
+    display: inline-block;
+    margin: 1rem 0.2rem;
+}
+.git-sl1 p{
+    font-weight: 500;
+}
+.git-sl1 i{
+    color: #2487ff;
+    font-size: 1.3rem;
+}
+
+.git-sl2{
+    width: 40%;
+    border-left: 0.12rem solid;
+    height: 12rem;
+    padding-left: 5rem;
+}
+.git-sl2 input{
+    width: 17rem;
+    height: 2rem;
+    margin: 1rem 0rem;
+    border: none;
+    border-bottom: 0.1rem solid;
+    outline: none;
+    font-size: 1.2rem;
+    color: #ffffff;
+    background: transparent;
+}
+
+.git-sl2 button{
+    width: 8rem;
+    height: 2rem;
+    background: #df3a5b;
+    border: none;
+    outline: none;
+}
+.git-sl2 button a{
+    color: #fff;
+    font-size: 1rem;
+}
